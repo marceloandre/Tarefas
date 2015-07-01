@@ -1,0 +1,28 @@
+1 - O que é a Open Handset Alliance?
+
+R - O open handset alliance é uma aliança de diversas empresas com a intenção de criar padrões abertos para a telefonia movel.
+Entre as participantes estão a Google, HTC, Dell, Intel, Motorola, Qualcomm, Texas, Intruments, Samsung, LG, T-Mobile e NVidia.
+
+2 - Qual foi o primeiro dispositivo com Android lançado após a aquisição da Android Inc. pela Google?
+
+R - HTC G1
+
+3 - Qual foi a primeira versão do Android a disponibilizar um teclado virtual?
+
+R - Android 1.5 - Cupcake
+
+4 - Quais são as principais inovações do Android Kitkat?
+
+R - Função "Ok Google"; Maior rapidez na alteração de tarefas; Capacidade de reunir todas as mensagens em uma tela; Permite
+utilizar as impressoras; Suporte ao Chromecast;
+
+5 - O que é a fragmentação?
+
+R - A fragmentação ocorre uma vez que várias empresas lançam seus smartphones com Android e não os atualiza mais, ou atualiza
+com grande atraso, deixando a versão do Android desatualizada para seus clientes.
+
+6 - De onde surgiu o mito que a interface do Android é lenta e pouco intuitiva?
+
+R - Houve um mito onde se achava que o Android era um sistema veloz, mas que a personalização do fabricante poderia (e dos
+próprios donos do aparelho) poderia prejudicar a experiência do usuário. Esse mito veio logo no surgimento do Android através
+das lsitas de desenvolvedores de celulares de outras plataformas.

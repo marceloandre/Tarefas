@@ -1,0 +1,16 @@
+1- O que é um Activity?
+
+R - Cada Activity pode representar uma ou mais telas em uma aplicação. Se pensarmos no modelo MVC, a Activity está no controle
+da View. Ela controla o que aparece na tela, ela tem um ciclo de vida. Se ela tem uma tela, pelo menos uma Activity ela irá ter.
+É a classe que controla o que é exibido na tela e fluxo do negócio.
+
+2 - Qual a relação entre BroadcastReceiver e o Service?
+
+R - O BroadcastReceiver pode ser usado para integrar as aplicações, executando serviços em segundo plano sem a interferência
+do usuário.
+
+3 - Qual a diferença entre usar o ContentProvider e o SQLite?
+
+R - O ContentProvider permite o gerenciamento do acesso a uma estrutura de dados. Eles encapsulam o dado de um processo com os
+códigos rodando em um outro processo. É muito utilizando quando se quer compartilhar os dados da sua aplicação com outras, por
+exemplo, a sua aplicação deseja compartilha os contatos criados para uma outra aplicação poder enviar mensagens por ela.

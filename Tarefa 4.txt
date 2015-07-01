@@ -1,0 +1,7 @@
+1 - Qual a propriedade utilizada no EditText para definirmos o tipo de entrada de dados? (url, numérico, etc)
+
+R - <android:inputType>
+
+2 - Como filtramos os dados inseridos pelo usuário em um EditText?
+
+R - Utilizando a interface inputfilter

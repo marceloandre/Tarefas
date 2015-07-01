@@ -1,0 +1,20 @@
+1 - O que é e para que usamos um AVD?
+
+R - É uma ferramenta que permite gerenciar um emulador da plataforma Android. Nele é possível configura o dispositivo virtual de
+maneira tais como: espaço de memória no cartão(micro SD); resolução e densidade da tela; e a memória RAM do dispositivo.
+
+2 - Qual arquivo xml obrigatório em toda a aplicação Android que descreve funcionalidades e permissões da aplicação?
+
+R - AndroidManifest.xml
+
+3 - Descreva o ciclo de vida de uma Activity
+
+R - onCreate() - É a primeira função a ser executada em uma Activity. Geralmente é a responsável por carregar os layout XML e
+outras operações de iniciaçização. É executada apenas uma vez. onStart() - É chamada imediatamente após a onCreate() - e também
+quando uma Activy que estava em backgroud volta a ter foco. onResume() - Assim como a onStart(), é chamada na inicialização da 
+Activity e também quando uma Activity volta a ter foco. A onStart() só é chamada quando a Activity não estava mais visível e volta
+a ter foco, a onResume() é chamada nas "retomadas de foco". onPause() - É a primeira função a ser invocada quando a Activity perde
+o foco (isso ocorre quando uma nova Activity fica completamente encoberta por outra Activity. onDestroy() - A última função a ser
+executada. Depois dela, a Activity é considerada "morta" - ou seja, não pode mais ser relançada. Se o usuário voltar a requisitar
+essa Activity, um novo objeto será construído. onRestart() - Chamada imediatamente antes da onStart(). quando uma Activity volta a
+ter o foco depois de estar em background.
